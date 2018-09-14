@@ -31,6 +31,9 @@ function resultLength() {
         if(a.name.first == b.name.first) return 0;
     })
 
+    const send = () => {
+        
+    }
 
     //loop through the data and make nieuw contact
     for(const item of data.results) {
